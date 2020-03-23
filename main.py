@@ -2,7 +2,7 @@ from telegram.ext import Updater, MessageHandler, Filters
 from telegram.ext import CallbackContext, CommandHandler
 from telegram import ReplyKeyboardMarkup, ReplyKeyboardRemove
 
-TOKEN = "1125754673:AAEOZqphw96-AK2SWfaS1ObQVG7S-OjP70g"
+TOKEN = "1105077082:AAEAn3qLd5SKtJOow0-azH0S9qR53K6DI9c"
 reply_keyboard = [
     [
         "/address", "/phone"
